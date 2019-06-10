@@ -10,7 +10,9 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
     "redux": "^4.0.1",
-    "tar": "^4.4.2"
+    "redux-form": "^8.1.0",
+    "tar": "^4.4.8",
+    "typescript": "^3.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
